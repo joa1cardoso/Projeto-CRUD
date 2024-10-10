@@ -7,6 +7,7 @@ como construir uma API RESTful, aplicando as melhores práticas de desenvolvimen
 
 - **Spring Boot**: Framework de aplicações Java.
 - **Spring Data JPA**: Para a persistência de dados e manipulação de entidades.
+- **Spring Web**: Para construir APIs RESTful e lidar com requisições HTTP.
 - **MySQL**: Sistema de gerenciamento de banco de dados
 - **Postman**: Ferramenta para testar a API.
 
